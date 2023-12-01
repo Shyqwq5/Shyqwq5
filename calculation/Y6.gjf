@@ -1,0 +1,303 @@
+%mem=8000MB
+%chk=C:\Users\shyqw\OneDrive\??\Y6 chk.chk
+%nprocshared=8
+#p b3lyp/6-31g geom=connectivity
+
+Y6
+
+0 1
+ C(PDBName=C1,ResName=UNL,ResNum=1)                   -2.08021369   -5.82747442    3.65961858
+ C(PDBName=C2,ResName=UNL,ResNum=1)                   -0.82131915   -5.17064760    4.23073246
+ C(PDBName=C3,ResName=UNL,ResNum=1)                    0.35839118   -5.16505321    3.24947906
+ C(PDBName=C4,ResName=UNL,ResNum=1)                    0.13519353   -4.38316475    1.93407941
+ C(PDBName=C5,ResName=UNL,ResNum=1)                    0.57635832   -2.89596253    1.96949397
+ C(PDBName=C6,ResName=UNL,ResNum=1)                   -0.34214916   -1.94902923    2.79189188
+ C(PDBName=C7,ResName=UNL,ResNum=1)                   -1.85077992   -2.09719873    2.56387207
+ C(PDBName=C8,ResName=UNL,ResNum=1)                    0.97015285   -2.32745747    0.57003377
+ N(PDBName=N1,ResName=UNL,ResNum=1)                   -0.15997352   -2.00931035   -0.31491697
+ C(PDBName=C9,ResName=UNL,ResNum=1)                   -0.95294618   -2.91570125   -0.92773904
+ C(PDBName=C10,ResName=UNL,ResNum=1)                  -2.20972225   -2.46893159   -1.16522542
+ S(PDBName=S1,ResName=UNL,ResNum=1)                   -3.20747619   -3.66996810   -1.84748517
+ C(PDBName=C11,ResName=UNL,ResNum=1)                  -1.90004155   -4.77854742   -1.86393319
+ C(PDBName=C12,ResName=UNL,ResNum=1)                  -0.76681851   -4.21409562   -1.34220079
+ S(PDBName=S2,ResName=UNL,ResNum=1)                    0.53074695   -5.25913737   -1.45822076
+ C(PDBName=C13,ResName=UNL,ResNum=1)                  -0.40618295   -6.50252436   -2.13267843
+ C(PDBName=C14,ResName=UNL,ResNum=1)                   0.15130854   -7.83142892   -2.38974246
+ C(PDBName=C15,ResName=UNL,ResNum=1)                   0.51915083   -8.62726230   -1.36662942
+ C(PDBName=C16,ResName=UNL,ResNum=1)                   0.16192128   -8.39402737    0.03975798
+ C(PDBName=C17,ResName=UNL,ResNum=1)                   1.04996789   -9.16538613    0.87555991
+ C(PDBName=C18,ResName=UNL,ResNum=1)                   1.04366412   -9.26348135    2.26737225
+ C(PDBName=C19,ResName=UNL,ResNum=1)                   1.96669234  -10.11439496    2.87901505
+ C(PDBName=C20,ResName=UNL,ResNum=1)                   2.88874666  -10.83327743    2.09946850
+ C(PDBName=C21,ResName=UNL,ResNum=1)                   2.85512663  -10.74893289    0.69816886
+ C(PDBName=C22,ResName=UNL,ResNum=1)                   1.92497184   -9.89279755    0.08480980
+ C(PDBName=C23,ResName=UNL,ResNum=1)                   1.60631792   -9.66013832   -1.35915639
+ C(PDBName=C24,ResName=UNL,ResNum=1)                   2.13977448  -10.29964124   -2.43069552
+ C(PDBName=C25,ResName=UNL,ResNum=1)                   3.33189330  -11.10025503   -2.34172773
+ N(PDBName=N2,ResName=UNL,ResNum=1)                    4.30768509  -11.73396101   -2.27768774
+ C(PDBName=C26,ResName=UNL,ResNum=1)                   1.52022668  -10.26086828   -3.73195575
+ N(PDBName=N3,ResName=UNL,ResNum=1)                    1.00932472  -10.25168845   -4.76682092
+ O(PDBName=O1,ResName=UNL,ResNum=1)                   -0.80218562   -7.69205247    0.45770431
+ C(PDBName=C27,ResName=UNL,ResNum=1)                  -1.73708823   -6.08693283   -2.31627803
+ C(PDBName=C28,ResName=UNL,ResNum=1)                  -2.24068409   -1.16948654   -0.73055319
+ C(PDBName=C29,ResName=UNL,ResNum=1)                  -0.93080126   -0.87943304   -0.30893022
+ C(PDBName=C30,ResName=UNL,ResNum=1)                  -0.60719113    0.44398145    0.10492917
+ N(PDBName=N4,ResName=UNL,ResNum=1)                    0.59398929    1.10655063    0.02129493
+ C(PDBName=C31,ResName=UNL,ResNum=1)                   1.79494036    0.69330231   -0.73298575
+ C(PDBName=C32,ResName=UNL,ResNum=1)                   3.10279995    0.59743210    0.13159635
+ C(PDBName=C33,ResName=UNL,ResNum=1)                   4.29714669    1.35772556   -0.52363851
+ C(PDBName=C34,ResName=UNL,ResNum=1)                   5.52846100    0.47219576   -0.71885901
+ C(PDBName=C35,ResName=UNL,ResNum=1)                   2.89295024    1.01320850    1.61481989
+ C(PDBName=C36,ResName=UNL,ResNum=1)                   4.05823479    0.60739928    2.52989135
+ C(PDBName=C37,ResName=UNL,ResNum=1)                   3.82513641    1.00795911    3.99576685
+ C(PDBName=C38,ResName=UNL,ResNum=1)                   2.68287246    0.23778248    4.65812251
+ C(PDBName=C39,ResName=UNL,ResNum=1)                   0.25477387    2.40251882    0.26755366
+ C(PDBName=C40,ResName=UNL,ResNum=1)                  -1.08257833    2.57701858    0.47843498
+ S(PDBName=S3,ResName=UNL,ResNum=1)                   -1.56567459    4.19002386    0.24624331
+ C(PDBName=C41,ResName=UNL,ResNum=1)                   0.03785065    4.67836452   -0.05129526
+ C(PDBName=C42,ResName=UNL,ResNum=1)                   0.88647787    3.60224945   -0.04487786
+ S(PDBName=S4,ResName=UNL,ResNum=1)                    2.37636055    4.05302400   -0.65255698
+ C(PDBName=C43,ResName=UNL,ResNum=1)                   1.95078304    5.67998356   -0.86379939
+ C(PDBName=C44,ResName=UNL,ResNum=1)                   2.83554481    6.63153347   -1.54876829
+ C(PDBName=C45,ResName=UNL,ResNum=1)                   2.91594043    7.95079355   -1.30353703
+ C(PDBName=C46,ResName=UNL,ResNum=1)                   2.28528393    8.76654498   -0.22324355
+ C(PDBName=C47,ResName=UNL,ResNum=1)                   2.30941137   10.17044678   -0.73549210
+ C(PDBName=C48,ResName=UNL,ResNum=1)                   1.75412957   11.34634367   -0.21431301
+ C(PDBName=C49,ResName=UNL,ResNum=1)                   2.02942309   12.57066419   -0.84989915
+ C(PDBName=C50,ResName=UNL,ResNum=1)                   2.84263398   12.61095959   -1.99949444
+ C(PDBName=C51,ResName=UNL,ResNum=1)                   3.37230040   11.42861651   -2.53297391
+ C(PDBName=C52,ResName=UNL,ResNum=1)                   3.08521122   10.22890039   -1.88425438
+ C(PDBName=C53,ResName=UNL,ResNum=1)                   3.50860051    8.89277441   -2.25028836
+ O(PDBName=O2,ResName=UNL,ResNum=1)                    4.21175855    8.59460029   -3.25485691
+ C(PDBName=C54,ResName=UNL,ResNum=1)                   2.17690796    8.40671266    1.08099621
+ C(PDBName=C55,ResName=UNL,ResNum=1)                   1.65106571    9.29123637    2.08737524
+ N(PDBName=N5,ResName=UNL,ResNum=1)                    1.22207838    9.98460314    2.90589487
+ C(PDBName=C56,ResName=UNL,ResNum=1)                   2.77024098    7.19122311    1.57836537
+ N(PDBName=N6,ResName=UNL,ResNum=1)                    3.25547316    6.22207488    1.98176026
+ C(PDBName=C57,ResName=UNL,ResNum=1)                   0.60056473    5.87086640   -0.51585218
+ C(PDBName=C58,ResName=UNL,ResNum=1)                  -1.66413849    1.35031024    0.31644601
+ C(PDBName=C59,ResName=UNL,ResNum=1)                  -2.97837907    0.99157056   -0.00531095
+ N(PDBName=N7,ResName=UNL,ResNum=1)                   -4.12688400    1.67524161    0.11113358
+ N(PDBName=N8,ResName=UNL,ResNum=1)                   -5.06275721    0.85047106   -0.36500070
+ C(PDBName=C60,ResName=UNL,ResNum=1)                  -6.49976698    1.11683528   -0.29983928
+ C(PDBName=C61,ResName=UNL,ResNum=1)                  -6.94303333    2.45526126   -0.96065758
+ C(PDBName=C62,ResName=UNL,ResNum=1)                  -5.95284468    2.98884079   -2.03010526
+ C(PDBName=C63,ResName=UNL,ResNum=1)                  -6.55656847    4.09522462   -2.89669248
+ C(PDBName=C64,ResName=UNL,ResNum=1)                  -7.38777479    3.51088313    0.08560984
+ C(PDBName=C65,ResName=UNL,ResNum=1)                  -6.25229412    4.07637834    0.95248977
+ C(PDBName=C66,ResName=UNL,ResNum=1)                  -6.81634228    5.04922608    1.99352672
+ C(PDBName=C67,ResName=UNL,ResNum=1)                  -5.70100774    5.67066398    2.83458903
+ N(PDBName=N9,ResName=UNL,ResNum=1)                   -4.57287706   -0.32430336   -0.76268338
+ C(PDBName=C68,ResName=UNL,ResNum=1)                  -3.25421139   -0.23013665   -0.55050544
+ H(PDBName=H1,ResName=UNL,ResNum=1)                   -2.58554011   -5.15286593    2.93878462
+ H(PDBName=H2,ResName=UNL,ResNum=1)                   -1.82890939   -6.78827716    3.16144367
+ H(PDBName=H3,ResName=UNL,ResNum=1)                   -2.79677865   -6.03653957    4.48290675
+ H(PDBName=H4,ResName=UNL,ResNum=1)                   -0.51517834   -5.75204693    5.12533105
+ H(PDBName=H5,ResName=UNL,ResNum=1)                   -1.04952427   -4.14928174    4.58418855
+ H(PDBName=H6,ResName=UNL,ResNum=1)                    0.58192284   -6.22366368    2.99380844
+ H(PDBName=H7,ResName=UNL,ResNum=1)                    1.26084453   -4.78440844    3.77634197
+ H(PDBName=H8,ResName=UNL,ResNum=1)                    0.79191557   -4.89116269    1.20178216
+ H(PDBName=H9,ResName=UNL,ResNum=1)                   -0.89605602   -4.50370001    1.54944372
+ H(PDBName=H10,ResName=UNL,ResNum=1)                   1.54624989   -2.88953709    2.51926944
+ H(PDBName=H11,ResName=UNL,ResNum=1)                  -0.05608178   -0.89534620    2.57710471
+ H(PDBName=H12,ResName=UNL,ResNum=1)                  -0.13627158   -2.09126445    3.87569978
+ H(PDBName=H13,ResName=UNL,ResNum=1)                  -2.30989426   -2.71570729    3.36225493
+ H(PDBName=H14,ResName=UNL,ResNum=1)                  -2.33908949   -1.09678518    2.59642214
+ H(PDBName=H15,ResName=UNL,ResNum=1)                  -2.09233435   -2.57349648    1.59860169
+ H(PDBName=H16,ResName=UNL,ResNum=1)                   1.52917266   -1.41217231    0.77599474
+ H(PDBName=H17,ResName=UNL,ResNum=1)                   1.67332205   -3.01552704    0.05431646
+ H(PDBName=H18,ResName=UNL,ResNum=1)                   0.53311088   -7.98530547   -3.38402862
+ H(PDBName=H19,ResName=UNL,ResNum=1)                   0.31605355   -8.71564757    2.85878328
+ H(PDBName=H20,ResName=UNL,ResNum=1)                   1.97531656  -10.21127306    3.95675308
+ H(PDBName=H21,ResName=UNL,ResNum=1)                   3.59471366  -11.49562305    2.58441270
+ H(PDBName=H22,ResName=UNL,ResNum=1)                   3.54134250  -11.36033218    0.14351248
+ H(PDBName=H23,ResName=UNL,ResNum=1)                  -2.52410589   -6.70046455   -2.73344469
+ H(PDBName=H24,ResName=UNL,ResNum=1)                   1.62002199   -0.28243000   -1.22676304
+ H(PDBName=H25,ResName=UNL,ResNum=1)                   1.91206915    1.38144627   -1.59557763
+ H(PDBName=H26,ResName=UNL,ResNum=1)                   3.37947507   -0.47688539    0.14526392
+ H(PDBName=H27,ResName=UNL,ResNum=1)                   4.03710541    1.75556575   -1.52779473
+ H(PDBName=H28,ResName=UNL,ResNum=1)                   4.58869542    2.24049809    0.08807874
+ H(PDBName=H29,ResName=UNL,ResNum=1)                   5.29895385   -0.34225818   -1.43802119
+ H(PDBName=H30,ResName=UNL,ResNum=1)                   6.36634732    1.07839156   -1.12489741
+ H(PDBName=H31,ResName=UNL,ResNum=1)                   5.85102931    0.02437739    0.24534034
+ H(PDBName=H32,ResName=UNL,ResNum=1)                   1.98095519    0.51317801    2.00134355
+ H(PDBName=H33,ResName=UNL,ResNum=1)                   2.73272041    2.11074974    1.68354862
+ H(PDBName=H34,ResName=UNL,ResNum=1)                   4.98422478    1.11280778    2.19367892
+ H(PDBName=H35,ResName=UNL,ResNum=1)                   4.22696585   -0.48718406    2.46516011
+ H(PDBName=H36,ResName=UNL,ResNum=1)                   3.62511139    2.09543344    4.06451686
+ H(PDBName=H37,ResName=UNL,ResNum=1)                   4.75932488    0.80441385    4.56595298
+ H(PDBName=H38,ResName=UNL,ResNum=1)                   2.77932819   -0.85237340    4.46939661
+ H(PDBName=H39,ResName=UNL,ResNum=1)                   1.70038035    0.59235044    4.27953987
+ H(PDBName=H40,ResName=UNL,ResNum=1)                   2.70635938    0.40940397    5.75573693
+ H(PDBName=H41,ResName=UNL,ResNum=1)                   3.42986030    6.22712766   -2.35758412
+ H(PDBName=H42,ResName=UNL,ResNum=1)                   1.10501662   11.34613396    0.64619924
+ H(PDBName=H43,ResName=UNL,ResNum=1)                   1.61329581   13.48726524   -0.45205169
+ H(PDBName=H44,ResName=UNL,ResNum=1)                   3.05783205   13.55872256   -2.47475135
+ H(PDBName=H45,ResName=UNL,ResNum=1)                   3.99535367   11.45013782   -3.41737566
+ H(PDBName=H46,ResName=UNL,ResNum=1)                   0.05195912    6.79337451   -0.65990655
+ H(PDBName=H47,ResName=UNL,ResNum=1)                  -6.81496649    1.07334718    0.77063914
+ H(PDBName=H48,ResName=UNL,ResNum=1)                  -7.03079168    0.28415026   -0.80656843
+ H(PDBName=H49,ResName=UNL,ResNum=1)                  -7.87709800    2.20568007   -1.51452166
+ H(PDBName=H50,ResName=UNL,ResNum=1)                  -5.02513619    3.37561725   -1.56148822
+ H(PDBName=H51,ResName=UNL,ResNum=1)                  -5.66608725    2.15155118   -2.70407432
+ H(PDBName=H52,ResName=UNL,ResNum=1)                  -5.86157799    4.32726572   -3.73237613
+ H(PDBName=H53,ResName=UNL,ResNum=1)                  -6.70192729    5.02243793   -2.30553744
+ H(PDBName=H54,ResName=UNL,ResNum=1)                  -7.52759545    3.76930777   -3.32772473
+ H(PDBName=H55,ResName=UNL,ResNum=1)                  -7.90747559    4.34436225   -0.43302744
+ H(PDBName=H56,ResName=UNL,ResNum=1)                  -8.14751892    3.04026767    0.75272823
+ H(PDBName=H57,ResName=UNL,ResNum=1)                  -5.52455894    4.61924567    0.31123821
+ H(PDBName=H58,ResName=UNL,ResNum=1)                  -5.73689143    3.24858827    1.48181166
+ H(PDBName=H59,ResName=UNL,ResNum=1)                  -7.51470799    4.51311403    2.67088645
+ H(PDBName=H60,ResName=UNL,ResNum=1)                  -7.37265204    5.87010668    1.48952027
+ H(PDBName=H61,ResName=UNL,ResNum=1)                  -5.05079186    6.30779349    2.19488653
+ H(PDBName=H62,ResName=UNL,ResNum=1)                  -6.14380393    6.30423768    3.63165860
+ H(PDBName=H63,ResName=UNL,ResNum=1)                  -5.08330802    4.88032315    3.31352370
+
+ 1 2 1.0 84 1.0 85 1.0 86 1.0
+ 2 3 1.0 87 1.0 88 1.0
+ 3 4 1.0 89 1.0 90 1.0
+ 4 5 1.0 91 1.0 92 1.0
+ 5 6 1.0 8 1.0 93 1.0
+ 6 7 1.0 94 1.0 95 1.0
+ 7 96 1.0 97 1.0 98 1.0
+ 8 9 1.0 99 1.0 100 1.0
+ 9 10 1.5 35 1.5
+ 10 11 2.0 14 2.0
+ 11 12 1.0 34 2.0
+ 12 13 1.0
+ 13 14 2.0 33 1.5
+ 14 15 1.5
+ 15 16 1.0
+ 16 17 1.0 33 1.5
+ 17 18 2.0 101 1.0
+ 18 19 1.0 26 1.0
+ 19 20 1.5 32 2.0
+ 20 21 1.5 25 2.0
+ 21 22 1.5 102 1.0
+ 22 23 1.5 103 1.0
+ 23 24 1.5 104 1.0
+ 24 25 1.5 105 1.0
+ 25 26 1.0
+ 26 27 2.0
+ 27 28 1.5 30 1.5
+ 28 29 3.0
+ 29
+ 30 31 3.0
+ 31
+ 32
+ 33 106 1.0
+ 34 35 1.5 83 1.5
+ 35 36 1.5
+ 36 37 1.5 70 1.5
+ 37 38 1.0 46 1.5
+ 38 39 1.0 107 1.0 108 1.0
+ 39 40 1.0 42 1.0 109 1.0
+ 40 41 1.0 110 1.0 111 1.0
+ 41 112 1.0 113 1.0 114 1.0
+ 42 43 1.0 115 1.0 116 1.0
+ 43 44 1.0 117 1.0 118 1.0
+ 44 45 1.0 119 1.0 120 1.0
+ 45 121 1.0 122 1.0 123 1.0
+ 46 47 2.0 50 1.5
+ 47 48 1.0 70 2.0
+ 48 49 1.0
+ 49 50 2.0 69 1.5
+ 50 51 1.5
+ 51 52 1.0
+ 52 53 1.0 69 1.5
+ 53 54 2.0 124 1.0
+ 54 55 1.0 62 1.0
+ 55 56 1.0 64 2.0
+ 56 57 1.5 61 1.5
+ 57 58 1.5 125 1.0
+ 58 59 1.5 126 1.0
+ 59 60 1.5 127 1.0
+ 60 61 1.5 128 1.0
+ 61 62 1.0
+ 62 63 2.0
+ 63
+ 64 65 1.5 67 1.5
+ 65 66 3.0
+ 66
+ 67 68 3.0
+ 68
+ 69 129 1.0
+ 70 71 1.5
+ 71 72 1.5 83 2.0
+ 72 73 1.0
+ 73 74 1.0 82 1.0
+ 74 75 1.0 130 1.0 131 1.0
+ 75 76 1.0 78 1.0 132 1.0
+ 76 77 1.0 133 1.0 134 1.0
+ 77 135 1.0 136 1.0 137 1.0
+ 78 79 1.0 138 1.0 139 1.0
+ 79 80 1.0 140 1.0 141 1.0
+ 80 81 1.0 142 1.0 143 1.0
+ 81 144 1.0 145 1.0 146 1.0
+ 82 83 1.5
+ 83
+ 84
+ 85
+ 86
+ 87
+ 88
+ 89
+ 90
+ 91
+ 92
+ 93
+ 94
+ 95
+ 96
+ 97
+ 98
+ 99
+ 100
+ 101
+ 102
+ 103
+ 104
+ 105
+ 106
+ 107
+ 108
+ 109
+ 110
+ 111
+ 112
+ 113
+ 114
+ 115
+ 116
+ 117
+ 118
+ 119
+ 120
+ 121
+ 122
+ 123
+ 124
+ 125
+ 126
+ 127
+ 128
+ 129
+ 130
+ 131
+ 132
+ 133
+ 134
+ 135
+ 136
+ 137
+ 138
+ 139
+ 140
+ 141
+ 142
+ 143
+ 144
+ 145
+ 146
+
+

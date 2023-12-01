@@ -1,0 +1,10 @@
+for i in *.gjf
+do
+  aaa=$(basename $i .gjf)
+  mkdir $aaa
+  mv $i $aaa
+  mv sub_gaussian $aaa
+  cd $aaa 
+  qsub sub_gaussian
+  cd ../
+done
