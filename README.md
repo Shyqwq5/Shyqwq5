@@ -23,4 +23,5 @@ I’m a Junior Data Engineer with a background in software engineering and appli
 
 ## 📫 Get in touch
 - Email: **shyqwq5@gmail.com**
-**- LinkedIn: *(add your link here)***
+- LinkedIn: [chenyu-wu-data-engineer](https://www.linkedin.com/in/chenyu-wu-data-engineer/)
+
