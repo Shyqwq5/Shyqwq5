@@ -6,3 +6,4 @@ Junior Data Engineer with a background in software engineering and applied data 
 ## 📫 Contact
 - Email: **shyqwq5@gmail.com**
 - LinkedIn: [Chenyu Wu](https://www.linkedin.com/in/chenyu-wu-data-engineer/)
+- Portfolio: [My Web](https://portfolio.chenyuwu.tech/)
